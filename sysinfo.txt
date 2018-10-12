@@ -1,0 +1,12 @@
+Sai Version  = 1.1.0
+Win Version  = „ 
+CPU No.00    = Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+CPU No.01    = Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+CPU No.02    = Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+CPU No.03    = Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3447MB

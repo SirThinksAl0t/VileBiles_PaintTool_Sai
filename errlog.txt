@@ -1,0 +1,8731 @@
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = Windows XP Home Service Pack 3
+CPU No.00    = AMD Sempron(tm) Processor 3400+
+WOW64        = No
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 959MB
+Total VAS    = 2047MB
+Avail VAS    = 1662MB
+
+TID Main     = 000009C0
+TID Splash   = 00000EAC
+TID Except   = 000003C0
+TID Setup    = 00000C50
+TID Async    = 00000824
+TID Thumb    = 00000000
+TID WinTab   = 00000E38
+
+TID SPad AWB = 00000708
+TID CV00 AWB = 00000900
+
+========================================================================
+
+-- 2011-08-01 21:51:06 ---------------------------------------
+ThreadID          = 00000724
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 142E5304
+ECX = 77C10AD6
+EDX = 00F53FE8
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 1476EE78
+ESP = 1476EDE8
+EIP = 00406759
+
+-- 2011-08-01 21:51:14 ---------------------------------------
+ThreadID          = 00000724
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 142E57E4
+ECX = 77C10AD6
+EDX = 00F53FE8
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 1476EE78
+ESP = 1476EDE8
+EIP = 00406759
+
+-- 2011-08-01 21:53:15 ---------------------------------------
+ThreadID          = 00000724
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 142E3D14
+ECX = 77C10AD6
+EDX = 00F53FE8
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 1476EE78
+ESP = 1476EDE8
+EIP = 00406759
+
+-- 2011-08-01 21:53:39 ---------------------------------------
+ThreadID          = 00000724
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 142E4BB4
+ECX = 77C10AD6
+EDX = 00F53FE8
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 1476EE78
+ESP = 1476EDE8
+EIP = 00406759
+
+-- 2011-08-01 21:53:48 ---------------------------------------
+ThreadID          = 00000724
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 142E4BB4
+ECX = 77C10AD6
+EDX = 00F53FE8
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 1476EE78
+ESP = 1476EDE8
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = Windows 2000 
+CPU No.00    = AMD Sempron(tm) Processor 3400+
+WOW64        = No
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 959MB
+Total VAS    = 2047MB
+Avail VAS    = 1671MB
+
+TID Main     = 00000F64
+TID Splash   = 00000A8C
+TID Except   = 00000F08
+TID Setup    = 000006FC
+TID Async    = 00000880
+TID Thumb    = 00000000
+TID WinTab   = 00000F50
+
+TID SPad AWB = 00000CF8
+
+========================================================================
+
+-- 2011-08-01 21:55:10 ---------------------------------------
+ThreadID          = 00000EBC
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 144457E4
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 148CEE78
+ESP = 148CEDE8
+EIP = 00406759
+
+-- 2011-08-01 21:56:07 ---------------------------------------
+ThreadID          = 00000EBC
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 144435C4
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 148CEE78
+ESP = 148CEDE8
+EIP = 00406759
+
+-- 2011-08-01 21:56:53 ---------------------------------------
+ThreadID          = 00000EBC
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 144441F4
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 148CEE78
+ESP = 148CEDE8
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = Windows 2000 
+CPU No.00    = AMD Sempron(tm) Processor 3400+
+WOW64        = No
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 959MB
+Total VAS    = 2047MB
+Avail VAS    = 1504MB
+
+TID Main     = 00000E14
+TID Splash   = 00000344
+TID Except   = 00000FEC
+TID Setup    = 00000E08
+TID Async    = 00000A64
+TID Thumb    = 00000000
+TID WinTab   = 00000F08
+
+TID SPad AWB = 00000BD0
+TID CV00 AWB = 00000F94
+
+========================================================================
+
+-- 2011-08-04 22:09:46 ---------------------------------------
+ThreadID          = 00000C20
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 143357E4
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 147CEE78
+ESP = 147CEDE8
+EIP = 00406759
+
+-- 2011-08-04 22:10:28 ---------------------------------------
+ThreadID          = 00000C20
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 14335A54
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 147CEE78
+ESP = 147CEDE8
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = Windows 2000 
+CPU No.00    = AMD Sempron(tm) Processor 3400+
+WOW64        = No
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 959MB
+Total VAS    = 2047MB
+Avail VAS    = 1674MB
+
+TID Main     = 00000BC8
+TID Splash   = 00000DDC
+TID Except   = 000007AC
+TID Setup    = 000005E4
+TID Async    = 000008DC
+TID Thumb    = 00000000
+TID WinTab   = 00000BD0
+
+TID SPad AWB = 00000728
+TID CV00 AWB = 0000018C
+
+========================================================================
+
+-- 2011-08-07 20:57:24 ---------------------------------------
+ThreadID          = 00000BC8
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 77C1624E
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0013CC7C
+ESP = 0013CBEC
+EIP = 00406759
+
+-- 2011-08-07 20:57:38 ---------------------------------------
+ThreadID          = 00000D84
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 14733AA4
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 148AEE78
+ESP = 148AEDE8
+EIP = 00406759
+
+-- 2011-08-07 20:57:42 ---------------------------------------
+ThreadID          = 00000BC8
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 77C1624E
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0012C9E0
+ESP = 0012C950
+EIP = 00406759
+
+-- 2011-08-07 20:58:08 ---------------------------------------
+ThreadID          = 00000D84
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 14734BB4
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 148AEE78
+ESP = 148AEDE8
+EIP = 00406759
+
+-- 2011-08-07 20:58:13 ---------------------------------------
+ThreadID          = 00000BC8
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 77C1624E
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0012C9E0
+ESP = 0012C950
+EIP = 00406759
+
+-- 2011-08-07 20:58:20 ---------------------------------------
+ThreadID          = 00000BC8
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 77C1624E
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0013CC7C
+ESP = 0013CBEC
+EIP = 00406759
+
+-- 2011-08-07 20:58:42 ---------------------------------------
+ThreadID          = 00000BC8
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 77C1624E
+ECX = 77C10AD6
+EDX = 00F94580
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0013CC7C
+ESP = 0013CBEC
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3294MB
+
+TID Main     = 00001ADC
+TID Splash   = 00001310
+TID Except   = 0000141C
+TID Setup    = 00001CE4
+TID Async    = 00000E78
+TID Thumb    = 00000000
+TID WinTab   = 00001554
+
+TID SPad AWB = 00001420
+TID CV00 AWB = 00000C1C
+TID CV01 AWB = 00000030
+
+========================================================================
+
+-- 2014-04-18 19:42:42 ---------------------------------------
+ThreadID          = 00001554
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 774061DB
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  774061DB
+
+EAX = 774061DB
+EBX = 00A9D848
+ECX = 00AE2DB0
+EDX = 00000001
+ESI = 2A18EB94
+EDI = 00000000
+EBP = 2A18EB20
+ESP = 2A18EB0C
+EIP = 774061DB
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3379MB
+
+TID Main     = 00002014
+TID Splash   = 00002044
+TID Except   = 00001D9C
+TID Setup    = 00000934
+TID Async    = 000023C8
+TID Thumb    = 00000000
+TID WinTab   = 000022EC
+
+TID SPad AWB = 000010C8
+
+========================================================================
+
+-- 2014-04-21 21:22:49 ---------------------------------------
+ThreadID          = 00002014
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 7624E526
+ECX = 762517BB
+EDX = 762E7C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018EEBC
+ESP = 0018EE2C
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3378MB
+
+TID Main     = 000020F4
+TID Splash   = 00001ECC
+TID Except   = 000023D8
+TID Setup    = 00000FD8
+TID Async    = 000019D0
+TID Thumb    = 00000000
+TID WinTab   = 00001948
+
+TID SPad AWB = 00002340
+
+========================================================================
+
+-- 2014-04-21 21:22:54 ---------------------------------------
+ThreadID          = 000020F4
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 7624E526
+ECX = 762517BB
+EDX = 762E7C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018EEBC
+ESP = 0018EE2C
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3379MB
+
+TID Main     = 000021A8
+TID Splash   = 00001968
+TID Except   = 00000798
+TID Setup    = 000017BC
+TID Async    = 000003D4
+TID Thumb    = 00000000
+TID WinTab   = 00002240
+
+TID SPad AWB = 00001698
+
+========================================================================
+
+-- 2014-04-21 21:23:02 ---------------------------------------
+ThreadID          = 000021A8
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 7624E526
+ECX = 762517BB
+EDX = 762E7C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018CAE0
+ESP = 0018CA50
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3300MB
+
+TID Main     = 00001CFC
+TID Splash   = 00000830
+TID Except   = 000029B0
+TID Setup    = 00000A54
+TID Async    = 00001838
+TID Thumb    = 00000000
+TID WinTab   = 0000185C
+
+TID SPad AWB = 000019A8
+TID CV00 AWB = 0000074C
+
+========================================================================
+
+-- 2014-05-12 01:29:38 ---------------------------------------
+ThreadID          = 00001CFC
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 771918D0
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  4B61FAFA
+
+EAX = 00000000
+EBX = 00000000
+ECX = 00D10000
+EDX = 277FC4C0
+ESI = 277FC4C0
+EDI = 4B61FAF6
+EBP = 001769E8
+ESP = 001769BC
+EIP = 771918D0
+
+-- 2014-05-12 01:29:38 ---------------------------------------
+ThreadID          = 00001CFC
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00425E5F
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0000002C
+
+EAX = 00000000
+EBX = 29D9E610
+ECX = 269E4440
+EDX = 269E4576
+ESI = 29D9E610
+EDI = 29D9E600
+EBP = 00178A50
+ESP = 00178A38
+EIP = 00425E5F
+
+-- 2014-05-12 03:13:51 ---------------------------------------
+ThreadID          = 00001CFC
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 771918D0
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  4B61CC78
+
+EAX = 00000000
+EBX = 00000000
+ECX = 00D10000
+EDX = 277E70D0
+ESI = 277E70D0
+EDI = 4B61CC74
+EBP = 0018EC68
+ESP = 0018EC3C
+EIP = 771918D0
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3372MB
+
+TID Main     = 000004D0
+TID Splash   = 000008B4
+TID Except   = 00001114
+TID Setup    = 0000124C
+TID Async    = 00001640
+TID Thumb    = 00000000
+TID WinTab   = 000004C0
+
+TID SPad AWB = 000016B4
+TID CV00 AWB = 000016E4
+
+========================================================================
+
+-- 2014-05-22 16:37:00 ---------------------------------------
+ThreadID          = 000004C0
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 2A2B61DB
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  2A2B61DB
+
+EAX = 2A2B61DB
+EBX = 00E1DE98
+ECX = 00E396E0
+EDX = 00000001
+ESI = 2A16EB94
+EDI = 00000000
+EBP = 2A16EB20
+ESP = 2A16EB0C
+EIP = 2A2B61DB
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2224MB
+
+TID Main     = 00000A50
+TID Splash   = 00001E38
+TID Except   = 000002C0
+TID Setup    = 00001F20
+TID Async    = 00001D78
+TID Thumb    = 00000000
+TID WinTab   = 00000E74
+
+TID SPad AWB = 00000958
+TID CV00 AWB = 00000BB4
+
+========================================================================
+
+-- 2014-09-01 02:35:38 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDE7B4
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:36:12 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDEC94
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:39:03 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDF3E4
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:40:08 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDF174
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:41:01 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDEF04
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:41:59 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDD434
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:42:44 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDF654
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:43:38 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDFB34
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:45:40 ---------------------------------------
+ThreadID          = 00000AC0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBDFDA4
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2209MB
+
+TID Main     = 00001FC8
+TID Splash   = 00001240
+TID Except   = 00001B70
+TID Setup    = 00000F00
+TID Async    = 00000B14
+TID Thumb    = 00000000
+TID WinTab   = 00000988
+
+TID SPad AWB = 00001FAC
+TID CV00 AWB = 00001EB8
+
+========================================================================
+
+-- 2014-09-01 02:47:53 ---------------------------------------
+ThreadID          = 00001DEC
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBE0014
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2208MB
+
+TID Main     = 00000E20
+TID Splash   = 00001FA0
+TID Except   = 00000534
+TID Setup    = 000006A8
+TID Async    = 000010D8
+TID Thumb    = 00000000
+TID WinTab   = 00001B74
+
+TID SPad AWB = 000018A8
+TID CV00 AWB = 00001C04
+
+========================================================================
+
+-- 2014-09-01 02:48:35 ---------------------------------------
+ThreadID          = 00001BE8
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBE0284
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:49:43 ---------------------------------------
+ThreadID          = 00001BE8
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBE09D4
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:57:12 ---------------------------------------
+ThreadID          = 00001BE8
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBE0EB4
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2225MB
+
+TID Main     = 0000191C
+TID Splash   = 00001474
+TID Except   = 0000199C
+TID Setup    = 00001B28
+TID Async    = 00000DFC
+TID Thumb    = 00000000
+TID WinTab   = 00001F58
+
+TID SPad AWB = 00001ED8
+
+========================================================================
+
+-- 2014-09-01 02:58:38 ---------------------------------------
+ThreadID          = 00000B4C
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EBE09D4
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0ED8EE3C
+ESP = 0ED8EDAC
+EIP = 00406759
+
+-- 2014-09-01 02:58:47 ---------------------------------------
+ThreadID          = 0000191C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 74A7E526
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0017C980
+ESP = 0017C8F0
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2273MB
+
+TID Main     = 0000127C
+TID Splash   = 00001410
+TID Except   = 00000E68
+TID Setup    = 00001E3C
+TID Async    = 00001E90
+TID Thumb    = 00000000
+TID WinTab   = 00001EDC
+
+TID SPad AWB = 00000520
+
+========================================================================
+
+-- 2014-09-01 02:59:12 ---------------------------------------
+ThreadID          = 0000127C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 74A7E526
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018EEBC
+ESP = 0018EE2C
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2273MB
+
+TID Main     = 00001FB4
+TID Splash   = 000013A4
+TID Except   = 00001778
+TID Setup    = 00000844
+TID Async    = 00000ACC
+TID Thumb    = 00000000
+TID WinTab   = 000008F8
+
+TID SPad AWB = 00000818
+
+========================================================================
+
+-- 2014-09-01 02:59:33 ---------------------------------------
+ThreadID          = 00001FB4
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 74A7E526
+ECX = 74A817BB
+EDX = 74B17C38
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018EEBC
+ESP = 0018EE2C
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2240MB
+
+TID Main     = 0000259C
+TID Splash   = 00001B84
+TID Except   = 00001B94
+TID Setup    = 00000078
+TID Async    = 0000227C
+TID Thumb    = 00000000
+TID WinTab   = 0000261C
+
+TID SPad AWB = 00001D68
+TID CV00 AWB = 00000458
+
+========================================================================
+
+-- 2015-01-22 04:20:48 ---------------------------------------
+ThreadID          = 0000261C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F8561DB
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F8561DB
+
+EAX = 0F8561DB
+EBX = 00321110
+ECX = 0038F098
+EDX = 00000001
+ESI = 0F70EB90
+EDI = 00000000
+EBP = 0F70EB1C
+ESP = 0F70EB08
+EIP = 0F8561DB
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = U‹ìjÿh)L 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2225MB
+
+TID Main     = 00000EE0
+TID Splash   = 00003188
+TID Except   = 00003618
+TID Setup    = 000033E0
+TID Async    = 00002A80
+TID Thumb    = 00000000
+TID WinTab   = 0000341C
+
+TID SPad AWB = 00000F8C
+TID CV00 AWB = 000050C4
+
+========================================================================
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000001
+ESI = 0F48ECD8
+EDI = 00000000
+EBP = 0F48EC64
+ESP = 0F48EC4C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D61DB
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D61DB
+
+EAX = 0F5D61DB
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000002
+ESI = 0F48BDC8
+EDI = 00000000
+EBP = 0F48BD54
+ESP = 0F48BD40
+EIP = 0F5D61DB
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000003
+ESI = 0F4893E8
+EDI = 00000000
+EBP = 0F489374
+ESP = 0F48935C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000004
+ESI = 0F486A08
+EDI = 00000000
+EBP = 0F486994
+ESP = 0F48697C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000005
+ESI = 0F484028
+EDI = 00000000
+EBP = 0F483FB4
+ESP = 0F483F9C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000006
+ESI = 0F481648
+EDI = 00000000
+EBP = 0F4815D4
+ESP = 0F4815BC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000007
+ESI = 0F47EC68
+EDI = 00000000
+EBP = 0F47EBF4
+ESP = 0F47EBDC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000008
+ESI = 0F47C288
+EDI = 00000000
+EBP = 0F47C214
+ESP = 0F47C1FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000009
+ESI = 0F4798A8
+EDI = 00000000
+EBP = 0F479834
+ESP = 0F47981C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000000A
+ESI = 0F476EC8
+EDI = 00000000
+EBP = 0F476E54
+ESP = 0F476E3C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000000B
+ESI = 0F4744E8
+EDI = 00000000
+EBP = 0F474474
+ESP = 0F47445C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000000C
+ESI = 0F471B08
+EDI = 00000000
+EBP = 0F471A94
+ESP = 0F471A7C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000000D
+ESI = 0F46F128
+EDI = 00000000
+EBP = 0F46F0B4
+ESP = 0F46F09C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000000E
+ESI = 0F46C748
+EDI = 00000000
+EBP = 0F46C6D4
+ESP = 0F46C6BC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000000F
+ESI = 0F469D68
+EDI = 00000000
+EBP = 0F469CF4
+ESP = 0F469CDC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000010
+ESI = 0F467388
+EDI = 00000000
+EBP = 0F467314
+ESP = 0F4672FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000011
+ESI = 0F4649A8
+EDI = 00000000
+EBP = 0F464934
+ESP = 0F46491C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000012
+ESI = 0F461FC8
+EDI = 00000000
+EBP = 0F461F54
+ESP = 0F461F3C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000013
+ESI = 0F45F5E8
+EDI = 00000000
+EBP = 0F45F574
+ESP = 0F45F55C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000014
+ESI = 0F45CC08
+EDI = 00000000
+EBP = 0F45CB94
+ESP = 0F45CB7C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000015
+ESI = 0F45A228
+EDI = 00000000
+EBP = 0F45A1B4
+ESP = 0F45A19C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000016
+ESI = 0F457848
+EDI = 00000000
+EBP = 0F4577D4
+ESP = 0F4577BC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000017
+ESI = 0F454E68
+EDI = 00000000
+EBP = 0F454DF4
+ESP = 0F454DDC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000018
+ESI = 0F452488
+EDI = 00000000
+EBP = 0F452414
+ESP = 0F4523FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000019
+ESI = 0F44FAA8
+EDI = 00000000
+EBP = 0F44FA34
+ESP = 0F44FA1C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000001A
+ESI = 0F44D0C8
+EDI = 00000000
+EBP = 0F44D054
+ESP = 0F44D03C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000001B
+ESI = 0F44A6E8
+EDI = 00000000
+EBP = 0F44A674
+ESP = 0F44A65C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000001C
+ESI = 0F447D08
+EDI = 00000000
+EBP = 0F447C94
+ESP = 0F447C7C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000001D
+ESI = 0F445328
+EDI = 00000000
+EBP = 0F4452B4
+ESP = 0F44529C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000001E
+ESI = 0F442948
+EDI = 00000000
+EBP = 0F4428D4
+ESP = 0F4428BC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000001F
+ESI = 0F43FF68
+EDI = 00000000
+EBP = 0F43FEF4
+ESP = 0F43FEDC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000020
+ESI = 0F43D588
+EDI = 00000000
+EBP = 0F43D514
+ESP = 0F43D4FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000021
+ESI = 0F43ABA8
+EDI = 00000000
+EBP = 0F43AB34
+ESP = 0F43AB1C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:55 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000022
+ESI = 0F4381C8
+EDI = 00000000
+EBP = 0F438154
+ESP = 0F43813C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000023
+ESI = 0F4357E8
+EDI = 00000000
+EBP = 0F435774
+ESP = 0F43575C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000024
+ESI = 0F432E08
+EDI = 00000000
+EBP = 0F432D94
+ESP = 0F432D7C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000025
+ESI = 0F430428
+EDI = 00000000
+EBP = 0F4303B4
+ESP = 0F43039C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000026
+ESI = 0F42DA48
+EDI = 00000000
+EBP = 0F42D9D4
+ESP = 0F42D9BC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000027
+ESI = 0F42B068
+EDI = 00000000
+EBP = 0F42AFF4
+ESP = 0F42AFDC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000028
+ESI = 0F428688
+EDI = 00000000
+EBP = 0F428614
+ESP = 0F4285FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000029
+ESI = 0F425CA8
+EDI = 00000000
+EBP = 0F425C34
+ESP = 0F425C1C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000002A
+ESI = 0F4232C8
+EDI = 00000000
+EBP = 0F423254
+ESP = 0F42323C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:56 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000002B
+ESI = 0F4208E8
+EDI = 00000000
+EBP = 0F420874
+ESP = 0F42085C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000002C
+ESI = 0F41DF08
+EDI = 00000000
+EBP = 0F41DE94
+ESP = 0F41DE7C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000002D
+ESI = 0F41B528
+EDI = 00000000
+EBP = 0F41B4B4
+ESP = 0F41B49C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000002E
+ESI = 0F418B48
+EDI = 00000000
+EBP = 0F418AD4
+ESP = 0F418ABC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000002F
+ESI = 0F416168
+EDI = 00000000
+EBP = 0F4160F4
+ESP = 0F4160DC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000030
+ESI = 0F413788
+EDI = 00000000
+EBP = 0F413714
+ESP = 0F4136FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000031
+ESI = 0F410DA8
+EDI = 00000000
+EBP = 0F410D34
+ESP = 0F410D1C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000032
+ESI = 0F40E3C8
+EDI = 00000000
+EBP = 0F40E354
+ESP = 0F40E33C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000033
+ESI = 0F40B9E8
+EDI = 00000000
+EBP = 0F40B974
+ESP = 0F40B95C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000034
+ESI = 0F409008
+EDI = 00000000
+EBP = 0F408F94
+ESP = 0F408F7C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000035
+ESI = 0F406628
+EDI = 00000000
+EBP = 0F4065B4
+ESP = 0F40659C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000036
+ESI = 0F403C48
+EDI = 00000000
+EBP = 0F403BD4
+ESP = 0F403BBC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000037
+ESI = 0F401268
+EDI = 00000000
+EBP = 0F4011F4
+ESP = 0F4011DC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000038
+ESI = 0F3FE888
+EDI = 00000000
+EBP = 0F3FE814
+ESP = 0F3FE7FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000039
+ESI = 0F3FBEA8
+EDI = 00000000
+EBP = 0F3FBE34
+ESP = 0F3FBE1C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000003A
+ESI = 0F3F94C8
+EDI = 00000000
+EBP = 0F3F9454
+ESP = 0F3F943C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000003B
+ESI = 0F3F6AE8
+EDI = 00000000
+EBP = 0F3F6A74
+ESP = 0F3F6A5C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000003C
+ESI = 0F3F4108
+EDI = 00000000
+EBP = 0F3F4094
+ESP = 0F3F407C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000003D
+ESI = 0F3F1728
+EDI = 00000000
+EBP = 0F3F16B4
+ESP = 0F3F169C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000003E
+ESI = 0F3EED48
+EDI = 00000000
+EBP = 0F3EECD4
+ESP = 0F3EECBC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000003F
+ESI = 0F3EC368
+EDI = 00000000
+EBP = 0F3EC2F4
+ESP = 0F3EC2DC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000040
+ESI = 0F3E9988
+EDI = 00000000
+EBP = 0F3E9914
+ESP = 0F3E98FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000041
+ESI = 0F3E6FA8
+EDI = 00000000
+EBP = 0F3E6F34
+ESP = 0F3E6F1C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000042
+ESI = 0F3E45C8
+EDI = 00000000
+EBP = 0F3E4554
+ESP = 0F3E453C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000043
+ESI = 0F3E1BE8
+EDI = 00000000
+EBP = 0F3E1B74
+ESP = 0F3E1B5C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000044
+ESI = 0F3DF208
+EDI = 00000000
+EBP = 0F3DF194
+ESP = 0F3DF17C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000045
+ESI = 0F3DC828
+EDI = 00000000
+EBP = 0F3DC7B4
+ESP = 0F3DC79C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000046
+ESI = 0F3D9E48
+EDI = 00000000
+EBP = 0F3D9DD4
+ESP = 0F3D9DBC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000047
+ESI = 0F3D7468
+EDI = 00000000
+EBP = 0F3D73F4
+ESP = 0F3D73DC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000048
+ESI = 0F3D4A88
+EDI = 00000000
+EBP = 0F3D4A14
+ESP = 0F3D49FC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000049
+ESI = 0F3D20A8
+EDI = 00000000
+EBP = 0F3D2034
+ESP = 0F3D201C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000004A
+ESI = 0F3CF6C8
+EDI = 00000000
+EBP = 0F3CF654
+ESP = 0F3CF63C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000004B
+ESI = 0F3CCCE8
+EDI = 00000000
+EBP = 0F3CCC74
+ESP = 0F3CCC5C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000004C
+ESI = 0F3CA308
+EDI = 00000000
+EBP = 0F3CA294
+ESP = 0F3CA27C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000004D
+ESI = 0F3C7928
+EDI = 00000000
+EBP = 0F3C78B4
+ESP = 0F3C789C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000004E
+ESI = 0F3C4F48
+EDI = 00000000
+EBP = 0F3C4ED4
+ESP = 0F3C4EBC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000004F
+ESI = 0F3C2568
+EDI = 00000000
+EBP = 0F3C24F4
+ESP = 0F3C24DC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000050
+ESI = 0F3BFB88
+EDI = 00000000
+EBP = 0F3BFB14
+ESP = 0F3BFAFC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000051
+ESI = 0F3BD1A8
+EDI = 00000000
+EBP = 0F3BD134
+ESP = 0F3BD11C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000052
+ESI = 0F3BA7C8
+EDI = 00000000
+EBP = 0F3BA754
+ESP = 0F3BA73C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000053
+ESI = 0F3B7DE8
+EDI = 00000000
+EBP = 0F3B7D74
+ESP = 0F3B7D5C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000054
+ESI = 0F3B5408
+EDI = 00000000
+EBP = 0F3B5394
+ESP = 0F3B537C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000055
+ESI = 0F3B2A28
+EDI = 00000000
+EBP = 0F3B29B4
+ESP = 0F3B299C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000056
+ESI = 0F3B0048
+EDI = 00000000
+EBP = 0F3AFFD4
+ESP = 0F3AFFBC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000057
+ESI = 0F3AD668
+EDI = 00000000
+EBP = 0F3AD5F4
+ESP = 0F3AD5DC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000058
+ESI = 0F3AAC88
+EDI = 00000000
+EBP = 0F3AAC14
+ESP = 0F3AABFC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 00000059
+ESI = 0F3A82A8
+EDI = 00000000
+EBP = 0F3A8234
+ESP = 0F3A821C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000005A
+ESI = 0F3A58C8
+EDI = 00000000
+EBP = 0F3A5854
+ESP = 0F3A583C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000005B
+ESI = 0F3A2EE8
+EDI = 00000000
+EBP = 0F3A2E74
+ESP = 0F3A2E5C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000005C
+ESI = 0F3A0508
+EDI = 00000000
+EBP = 0F3A0494
+ESP = 0F3A047C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000005D
+ESI = 0F39DB28
+EDI = 00000000
+EBP = 0F39DAB4
+ESP = 0F39DA9C
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000005E
+ESI = 0F39B148
+EDI = 00000000
+EBP = 0F39B0D4
+ESP = 0F39B0BC
+EIP = 0F5D2C6B
+
+-- 2015-03-29 13:59:58 ---------------------------------------
+ThreadID          = 0000341C
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F5D2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F5D2C6B
+
+EAX = 0F5D2C6B
+EBX = 00B697E0
+ECX = 00B97C48
+EDX = 0000005F
+ESI = 0F398768
+EDI = 00000000
+EBP = 0F3986F4
+ESP = 0F3986DC
+EIP = 0F5D2C6B
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = U‹ìjÿh)L 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2216MB
+
+TID Main     = 000044BC
+TID Splash   = 000053A4
+TID Except   = 0000512C
+TID Setup    = 00004E74
+TID Async    = 000035AC
+TID Thumb    = 00000000
+TID WinTab   = 00004BA4
+
+TID SPad AWB = 00004FD4
+TID CV00 AWB = 00004DD0
+
+========================================================================
+
+-- 2015-05-25 10:11:22 ---------------------------------------
+ThreadID          = 00004BA4
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4561DB
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4561DB
+
+EAX = 0F4561DB
+EBX = 00B2BA38
+ECX = 00B55A30
+EDX = 00000001
+ESI = 0F30EB70
+EDI = 00000000
+EBP = 0F30EAFC
+ESP = 0F30EAE8
+EIP = 0F4561DB
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = U‹ìjÿh)L 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2232MB
+
+TID Main     = 000053B8
+TID Splash   = 0000560C
+TID Except   = 000039EC
+TID Setup    = 00004C20
+TID Async    = 00005408
+TID Thumb    = 00000000
+TID WinTab   = 00004B04
+
+TID SPad AWB = 000043A0
+TID CV00 AWB = 00005558
+
+========================================================================
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000003
+ESI = 0F3AECD8
+EDI = 00000000
+EBP = 0F3AEC64
+ESP = 0F3AEC4C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F61DB
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F61DB
+
+EAX = 0F4F61DB
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000002
+ESI = 0F3ABDC8
+EDI = 00000000
+EBP = 0F3ABD54
+ESP = 0F3ABD40
+EIP = 0F4F61DB
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000003
+ESI = 0F3A93E8
+EDI = 00000000
+EBP = 0F3A9374
+ESP = 0F3A935C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000004
+ESI = 0F3A6A08
+EDI = 00000000
+EBP = 0F3A6994
+ESP = 0F3A697C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000005
+ESI = 0F3A4028
+EDI = 00000000
+EBP = 0F3A3FB4
+ESP = 0F3A3F9C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000006
+ESI = 0F3A1648
+EDI = 00000000
+EBP = 0F3A15D4
+ESP = 0F3A15BC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000007
+ESI = 0F39EC68
+EDI = 00000000
+EBP = 0F39EBF4
+ESP = 0F39EBDC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000008
+ESI = 0F39C288
+EDI = 00000000
+EBP = 0F39C214
+ESP = 0F39C1FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000009
+ESI = 0F3998A8
+EDI = 00000000
+EBP = 0F399834
+ESP = 0F39981C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000000A
+ESI = 0F396EC8
+EDI = 00000000
+EBP = 0F396E54
+ESP = 0F396E3C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000000B
+ESI = 0F3944E8
+EDI = 00000000
+EBP = 0F394474
+ESP = 0F39445C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000000C
+ESI = 0F391B08
+EDI = 00000000
+EBP = 0F391A94
+ESP = 0F391A7C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000000D
+ESI = 0F38F128
+EDI = 00000000
+EBP = 0F38F0B4
+ESP = 0F38F09C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000000E
+ESI = 0F38C748
+EDI = 00000000
+EBP = 0F38C6D4
+ESP = 0F38C6BC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000000F
+ESI = 0F389D68
+EDI = 00000000
+EBP = 0F389CF4
+ESP = 0F389CDC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000010
+ESI = 0F387388
+EDI = 00000000
+EBP = 0F387314
+ESP = 0F3872FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000011
+ESI = 0F3849A8
+EDI = 00000000
+EBP = 0F384934
+ESP = 0F38491C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000012
+ESI = 0F381FC8
+EDI = 00000000
+EBP = 0F381F54
+ESP = 0F381F3C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000013
+ESI = 0F37F5E8
+EDI = 00000000
+EBP = 0F37F574
+ESP = 0F37F55C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000014
+ESI = 0F37CC08
+EDI = 00000000
+EBP = 0F37CB94
+ESP = 0F37CB7C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000015
+ESI = 0F37A228
+EDI = 00000000
+EBP = 0F37A1B4
+ESP = 0F37A19C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000016
+ESI = 0F377848
+EDI = 00000000
+EBP = 0F3777D4
+ESP = 0F3777BC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000017
+ESI = 0F374E68
+EDI = 00000000
+EBP = 0F374DF4
+ESP = 0F374DDC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000018
+ESI = 0F372488
+EDI = 00000000
+EBP = 0F372414
+ESP = 0F3723FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000019
+ESI = 0F36FAA8
+EDI = 00000000
+EBP = 0F36FA34
+ESP = 0F36FA1C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000001A
+ESI = 0F36D0C8
+EDI = 00000000
+EBP = 0F36D054
+ESP = 0F36D03C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000001B
+ESI = 0F36A6E8
+EDI = 00000000
+EBP = 0F36A674
+ESP = 0F36A65C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000001C
+ESI = 0F367D08
+EDI = 00000000
+EBP = 0F367C94
+ESP = 0F367C7C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000001D
+ESI = 0F365328
+EDI = 00000000
+EBP = 0F3652B4
+ESP = 0F36529C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000001E
+ESI = 0F362948
+EDI = 00000000
+EBP = 0F3628D4
+ESP = 0F3628BC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000001F
+ESI = 0F35FF68
+EDI = 00000000
+EBP = 0F35FEF4
+ESP = 0F35FEDC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000020
+ESI = 0F35D588
+EDI = 00000000
+EBP = 0F35D514
+ESP = 0F35D4FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000021
+ESI = 0F35ABA8
+EDI = 00000000
+EBP = 0F35AB34
+ESP = 0F35AB1C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000022
+ESI = 0F3581C8
+EDI = 00000000
+EBP = 0F358154
+ESP = 0F35813C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000023
+ESI = 0F3557E8
+EDI = 00000000
+EBP = 0F355774
+ESP = 0F35575C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000024
+ESI = 0F352E08
+EDI = 00000000
+EBP = 0F352D94
+ESP = 0F352D7C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000025
+ESI = 0F350428
+EDI = 00000000
+EBP = 0F3503B4
+ESP = 0F35039C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000026
+ESI = 0F34DA48
+EDI = 00000000
+EBP = 0F34D9D4
+ESP = 0F34D9BC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000027
+ESI = 0F34B068
+EDI = 00000000
+EBP = 0F34AFF4
+ESP = 0F34AFDC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000028
+ESI = 0F348688
+EDI = 00000000
+EBP = 0F348614
+ESP = 0F3485FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000029
+ESI = 0F345CA8
+EDI = 00000000
+EBP = 0F345C34
+ESP = 0F345C1C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000002A
+ESI = 0F3432C8
+EDI = 00000000
+EBP = 0F343254
+ESP = 0F34323C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000002B
+ESI = 0F3408E8
+EDI = 00000000
+EBP = 0F340874
+ESP = 0F34085C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000002C
+ESI = 0F33DF08
+EDI = 00000000
+EBP = 0F33DE94
+ESP = 0F33DE7C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000002D
+ESI = 0F33B528
+EDI = 00000000
+EBP = 0F33B4B4
+ESP = 0F33B49C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000002E
+ESI = 0F338B48
+EDI = 00000000
+EBP = 0F338AD4
+ESP = 0F338ABC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000002F
+ESI = 0F336168
+EDI = 00000000
+EBP = 0F3360F4
+ESP = 0F3360DC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000030
+ESI = 0F333788
+EDI = 00000000
+EBP = 0F333714
+ESP = 0F3336FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000031
+ESI = 0F330DA8
+EDI = 00000000
+EBP = 0F330D34
+ESP = 0F330D1C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000032
+ESI = 0F32E3C8
+EDI = 00000000
+EBP = 0F32E354
+ESP = 0F32E33C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000033
+ESI = 0F32B9E8
+EDI = 00000000
+EBP = 0F32B974
+ESP = 0F32B95C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000034
+ESI = 0F329008
+EDI = 00000000
+EBP = 0F328F94
+ESP = 0F328F7C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000035
+ESI = 0F326628
+EDI = 00000000
+EBP = 0F3265B4
+ESP = 0F32659C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000036
+ESI = 0F323C48
+EDI = 00000000
+EBP = 0F323BD4
+ESP = 0F323BBC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000037
+ESI = 0F321268
+EDI = 00000000
+EBP = 0F3211F4
+ESP = 0F3211DC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000038
+ESI = 0F31E888
+EDI = 00000000
+EBP = 0F31E814
+ESP = 0F31E7FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000039
+ESI = 0F31BEA8
+EDI = 00000000
+EBP = 0F31BE34
+ESP = 0F31BE1C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000003A
+ESI = 0F3194C8
+EDI = 00000000
+EBP = 0F319454
+ESP = 0F31943C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000003B
+ESI = 0F316AE8
+EDI = 00000000
+EBP = 0F316A74
+ESP = 0F316A5C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000003C
+ESI = 0F314108
+EDI = 00000000
+EBP = 0F314094
+ESP = 0F31407C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000003D
+ESI = 0F311728
+EDI = 00000000
+EBP = 0F3116B4
+ESP = 0F31169C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000003E
+ESI = 0F30ED48
+EDI = 00000000
+EBP = 0F30ECD4
+ESP = 0F30ECBC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000003F
+ESI = 0F30C368
+EDI = 00000000
+EBP = 0F30C2F4
+ESP = 0F30C2DC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000040
+ESI = 0F309988
+EDI = 00000000
+EBP = 0F309914
+ESP = 0F3098FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000041
+ESI = 0F306FA8
+EDI = 00000000
+EBP = 0F306F34
+ESP = 0F306F1C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000042
+ESI = 0F3045C8
+EDI = 00000000
+EBP = 0F304554
+ESP = 0F30453C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000043
+ESI = 0F301BE8
+EDI = 00000000
+EBP = 0F301B74
+ESP = 0F301B5C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000044
+ESI = 0F2FF208
+EDI = 00000000
+EBP = 0F2FF194
+ESP = 0F2FF17C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000045
+ESI = 0F2FC828
+EDI = 00000000
+EBP = 0F2FC7B4
+ESP = 0F2FC79C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:09 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000046
+ESI = 0F2F9E48
+EDI = 00000000
+EBP = 0F2F9DD4
+ESP = 0F2F9DBC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000047
+ESI = 0F2F7468
+EDI = 00000000
+EBP = 0F2F73F4
+ESP = 0F2F73DC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000048
+ESI = 0F2F4A88
+EDI = 00000000
+EBP = 0F2F4A14
+ESP = 0F2F49FC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000049
+ESI = 0F2F20A8
+EDI = 00000000
+EBP = 0F2F2034
+ESP = 0F2F201C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000004A
+ESI = 0F2EF6C8
+EDI = 00000000
+EBP = 0F2EF654
+ESP = 0F2EF63C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000004B
+ESI = 0F2ECCE8
+EDI = 00000000
+EBP = 0F2ECC74
+ESP = 0F2ECC5C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000004C
+ESI = 0F2EA308
+EDI = 00000000
+EBP = 0F2EA294
+ESP = 0F2EA27C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000004D
+ESI = 0F2E7928
+EDI = 00000000
+EBP = 0F2E78B4
+ESP = 0F2E789C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000004E
+ESI = 0F2E4F48
+EDI = 00000000
+EBP = 0F2E4ED4
+ESP = 0F2E4EBC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000004F
+ESI = 0F2E2568
+EDI = 00000000
+EBP = 0F2E24F4
+ESP = 0F2E24DC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000050
+ESI = 0F2DFB88
+EDI = 00000000
+EBP = 0F2DFB14
+ESP = 0F2DFAFC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000051
+ESI = 0F2DD1A8
+EDI = 00000000
+EBP = 0F2DD134
+ESP = 0F2DD11C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000052
+ESI = 0F2DA7C8
+EDI = 00000000
+EBP = 0F2DA754
+ESP = 0F2DA73C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000053
+ESI = 0F2D7DE8
+EDI = 00000000
+EBP = 0F2D7D74
+ESP = 0F2D7D5C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000054
+ESI = 0F2D5408
+EDI = 00000000
+EBP = 0F2D5394
+ESP = 0F2D537C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000055
+ESI = 0F2D2A28
+EDI = 00000000
+EBP = 0F2D29B4
+ESP = 0F2D299C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000056
+ESI = 0F2D0048
+EDI = 00000000
+EBP = 0F2CFFD4
+ESP = 0F2CFFBC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000057
+ESI = 0F2CD668
+EDI = 00000000
+EBP = 0F2CD5F4
+ESP = 0F2CD5DC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000058
+ESI = 0F2CAC88
+EDI = 00000000
+EBP = 0F2CAC14
+ESP = 0F2CABFC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 00000059
+ESI = 0F2C82A8
+EDI = 00000000
+EBP = 0F2C8234
+ESP = 0F2C821C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000005A
+ESI = 0F2C58C8
+EDI = 00000000
+EBP = 0F2C5854
+ESP = 0F2C583C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000005B
+ESI = 0F2C2EE8
+EDI = 00000000
+EBP = 0F2C2E74
+ESP = 0F2C2E5C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000005C
+ESI = 0F2C0508
+EDI = 00000000
+EBP = 0F2C0494
+ESP = 0F2C047C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000005D
+ESI = 0F2BDB28
+EDI = 00000000
+EBP = 0F2BDAB4
+ESP = 0F2BDA9C
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000005E
+ESI = 0F2BB148
+EDI = 00000000
+EBP = 0F2BB0D4
+ESP = 0F2BB0BC
+EIP = 0F4F2C6B
+
+-- 2015-05-26 09:17:10 ---------------------------------------
+ThreadID          = 00004B04
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0F4F2C6B
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000000
+  0F4F2C6B
+
+EAX = 0F4F2C6B
+EBX = 00B75CF0
+ECX = 00BA8C90
+EDX = 0000005F
+ESI = 0F2B8768
+EDI = 00000000
+EBP = 0F2B86F4
+ESP = 0F2B86DC
+EIP = 0F4F2C6B
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡4<©w3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¤r©wÿ×ƒÆ;urä_‹Mü3Í^èœcÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2111MB
+
+TID Main     = 0000247C
+TID Splash   = 00001C88
+TID Except   = 00001160
+TID Setup    = 00002480
+TID Async    = 00001F80
+TID Thumb    = 00000000
+TID WinTab   = 000016B8
+
+TID SPad AWB = 00001618
+TID CV00 AWB = 00000C6C
+TID CV01 AWB = 000009C0
+TID CV02 AWB = 00002434
+TID CV03 AWB = 00001D50
+
+========================================================================
+
+-- 2015-12-08 19:53:26 ---------------------------------------
+ThreadID          = 00001084
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EE55574
+ECX = 77A58241
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F02EE34
+ESP = 0F02EDA4
+EIP = 00406759
+
+-- 2015-12-08 19:53:29 ---------------------------------------
+ThreadID          = 0000247C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 77A661D0
+ECX = 77A58241
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018C95C
+ESP = 0018C8CC
+EIP = 0040674A
+
+-- 2015-12-08 19:53:35 ---------------------------------------
+ThreadID          = 00001084
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EE55574
+ECX = 77A58241
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F02EE34
+ESP = 0F02EDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡4<œt3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¤rœtÿ×ƒÆ;urä_‹Mü3Í^èlcÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2192MB
+
+TID Main     = 00003EEC
+TID Splash   = 00003E04
+TID Except   = 00003AE4
+TID Setup    = 00003820
+TID Async    = 00000BDC
+TID Thumb    = 00000000
+TID WinTab   = 0000198C
+
+TID SPad AWB = 00000DD0
+TID CV00 AWB = 0000366C
+
+========================================================================
+
+-- 2016-02-24 16:41:13 ---------------------------------------
+ThreadID          = 00000B38
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F054944
+ECX = 749882F1
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F22EE34
+ESP = 0F22EDA4
+EIP = 00406759
+
+-- 2016-02-24 16:41:13 ---------------------------------------
+ThreadID          = 00000B38
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F054944
+ECX = 749882F1
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F22EE34
+ESP = 0F22EDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡Dyt3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rytÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2192MB
+
+TID Main     = 000027CC
+TID Splash   = 00003164
+TID Except   = 0000309C
+TID Setup    = 00000E50
+TID Async    = 0000217C
+TID Thumb    = 00000000
+TID WinTab   = 000025C4
+
+TID SPad AWB = 00002A54
+TID CV00 AWB = 0000236C
+
+========================================================================
+
+-- 2016-10-25 16:25:11 ---------------------------------------
+ThreadID          = 00002EC8
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F120EB4
+ECX = 74758461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F2EEE34
+ESP = 0F2EEDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡Dyt3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rytÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2198MB
+
+TID Main     = 000013B0
+TID Splash   = 00000A70
+TID Except   = 000033D8
+TID Setup    = 000005BC
+TID Async    = 00003238
+TID Thumb    = 00000000
+TID WinTab   = 00003208
+
+TID SPad AWB = 00002440
+
+========================================================================
+
+-- 2016-10-26 03:55:47 ---------------------------------------
+ThreadID          = 0000151C
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F0868F4
+ECX = 74758461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F25EE34
+ESP = 0F25EDA4
+EIP = 00406759
+
+-- 2016-10-26 03:55:47 ---------------------------------------
+ThreadID          = 0000151C
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F0868F4
+ECX = 74758461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F25EE34
+ESP = 0F25EDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡D•t3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨r•tÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2190MB
+
+TID Main     = 00001AC0
+TID Splash   = 00000720
+TID Except   = 000013A8
+TID Setup    = 000004C4
+TID Async    = 00002418
+TID Thumb    = 00000000
+TID WinTab   = 00001CE0
+
+TID SPad AWB = 000027CC
+TID CV00 AWB = 0000049C
+
+========================================================================
+
+-- 2016-10-27 19:58:31 ---------------------------------------
+ThreadID          = 00001E80
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EF27A04
+ECX = 74918461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0FEE34
+ESP = 0F0FEDA4
+EIP = 00406759
+
+-- 2016-10-27 19:58:31 ---------------------------------------
+ThreadID          = 00001E80
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EF27A04
+ECX = 74918461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0FEE34
+ESP = 0F0FEDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡Dw3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rwÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2197MB
+
+TID Main     = 00001D4C
+TID Splash   = 000015D4
+TID Except   = 0000211C
+TID Setup    = 000027A0
+TID Async    = 00000A10
+TID Thumb    = 00000000
+TID WinTab   = 000022FC
+
+TID SPad AWB = 0000116C
+
+========================================================================
+
+-- 2016-10-28 14:57:10 ---------------------------------------
+ThreadID          = 00001740
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F106B64
+ECX = 770A8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F2BEE34
+ESP = 0F2BEDA4
+EIP = 00406759
+
+-- 2016-10-28 14:57:10 ---------------------------------------
+ThreadID          = 00001740
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F106B64
+ECX = 770A8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F2BEE34
+ESP = 0F2BEDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡Dw3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rwÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2106MB
+
+TID Main     = 000018A8
+TID Splash   = 00000E04
+TID Except   = 0000213C
+TID Setup    = 00003170
+TID Async    = 00000B34
+TID Thumb    = 00000000
+TID WinTab   = 00001F18
+
+TID SPad AWB = 00002954
+TID CV00 AWB = 000010A0
+
+========================================================================
+
+-- 2016-11-03 20:12:24 ---------------------------------------
+ThreadID          = 00001E98
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F2588A4
+ECX = 770A8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F42EE34
+ESP = 0F42EDA4
+EIP = 00406759
+
+-- 2016-11-03 20:12:24 ---------------------------------------
+ThreadID          = 00001E98
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F2588A4
+ECX = 770A8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F42EE34
+ESP = 0F42EDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡Dw3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rwÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2181MB
+
+TID Main     = 00001B70
+TID Splash   = 000009A4
+TID Except   = 000010F4
+TID Setup    = 00002348
+TID Async    = 000008B0
+TID Thumb    = 00000000
+TID WinTab   = 00000788
+
+TID SPad AWB = 00002114
+TID CV00 AWB = 000021C4
+
+========================================================================
+
+-- 2016-11-04 13:35:56 ---------------------------------------
+ThreadID          = 00002848
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F08A0F4
+ECX = 770A8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F24EE34
+ESP = 0F24EDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡Dw3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rwÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2156MB
+
+TID Main     = 00002714
+TID Splash   = 00002654
+TID Except   = 00000890
+TID Setup    = 0000305C
+TID Async    = 000009D8
+TID Thumb    = 00000000
+TID WinTab   = 00000B44
+
+TID SPad AWB = 00002D08
+TID CV00 AWB = 00001C88
+
+========================================================================
+
+-- 2016-11-05 16:20:46 ---------------------------------------
+ThreadID          = 00001A30
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F146B64
+ECX = 770A8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F31EE34
+ESP = 0F31EDA4
+EIP = 00406759
+
+-- 2016-11-05 16:20:46 ---------------------------------------
+ThreadID          = 00001A30
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F146B64
+ECX = 770A8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F31EE34
+ESP = 0F31EDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡Dµw3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rµwÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2072MB
+
+TID Main     = 000031A0
+TID Splash   = 00002928
+TID Except   = 00001F58
+TID Setup    = 00002BFC
+TID Async    = 0000133C
+TID Thumb    = 00000000
+TID WinTab   = 00000BC8
+
+TID SPad AWB = 00001B50
+TID CV00 AWB = 00001D34
+
+========================================================================
+
+-- 2016-11-15 18:28:17 ---------------------------------------
+ThreadID          = 00001D24
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EEF57E4
+ECX = 77B18461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0CEE34
+ESP = 0F0CEDA4
+EIP = 00406759
+
+-- 2016-11-15 18:28:50 ---------------------------------------
+ThreadID          = 00001D24
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EEF9744
+ECX = 77B18461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0CEE34
+ESP = 0F0CEDA4
+EIP = 00406759
+
+-- 2016-11-15 18:29:47 ---------------------------------------
+ThreadID          = 00001D24
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EEF88A4
+ECX = 77B18461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0CEE34
+ESP = 0F0CEDA4
+EIP = 00406759
+
+-- 2016-11-15 18:29:58 ---------------------------------------
+ThreadID          = 00001D24
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EEF9744
+ECX = 77B18461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0CEE34
+ESP = 0F0CEDA4
+EIP = 00406759
+
+-- 2016-11-15 18:30:44 ---------------------------------------
+ThreadID          = 00001D24
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EEF88A4
+ECX = 77B18461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0CEE34
+ESP = 0F0CEDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡Dµw3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rµwÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2178MB
+
+TID Main     = 00001C80
+TID Splash   = 00001768
+TID Except   = 000021C0
+TID Setup    = 000024E4
+TID Async    = 00001DB0
+TID Thumb    = 00000000
+TID WinTab   = 000011B0
+
+TID SPad AWB = 00000A04
+
+========================================================================
+
+-- 2016-11-18 01:00:47 ---------------------------------------
+ThreadID          = 000024D0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EF06B64
+ECX = 77B18461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0DEE34
+ESP = 0F0DEDA4
+EIP = 00406759
+
+-- 2016-11-18 01:00:47 ---------------------------------------
+ThreadID          = 000024D0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EF06B64
+ECX = 77B18461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F0DEE34
+ESP = 0F0DEDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DAv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rAvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2198MB
+
+TID Main     = 000026C4
+TID Splash   = 00003134
+TID Except   = 000024A8
+TID Setup    = 00000FBC
+TID Async    = 00002804
+TID Thumb    = 00000000
+TID WinTab   = 00001200
+
+TID SPad AWB = 00001FC0
+
+========================================================================
+
+-- 2017-03-01 22:04:12 ---------------------------------------
+ThreadID          = 000023D4
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F367EE4
+ECX = 763D8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F53EE34
+ESP = 0F53EDA4
+EIP = 00406759
+
+-- 2017-03-01 22:04:12 ---------------------------------------
+ThreadID          = 000023D4
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0F367EE4
+ECX = 763D8461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F53EE34
+ESP = 0F53EDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡D‰t3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨r‰tÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2178MB
+
+TID Main     = 00002ABC
+TID Splash   = 00001DC4
+TID Except   = 000019A4
+TID Setup    = 00002574
+TID Async    = 000029B4
+TID Thumb    = 00000000
+TID WinTab   = 00001B58
+
+TID SPad AWB = 00001EC8
+TID CV00 AWB = 00002B38
+
+========================================================================
+
+-- 2017-03-18 18:03:49 ---------------------------------------
+ThreadID          = 000026D0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EE05CC4
+ECX = 74858461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0EFDEE34
+ESP = 0EFDEDA4
+EIP = 00406759
+
+-- 2017-03-18 18:03:49 ---------------------------------------
+ThreadID          = 000026D0
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EE05CC4
+ECX = 74858461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0EFDEE34
+ESP = 0EFDEDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡D‰t3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨r‰tÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2194MB
+
+TID Main     = 00001B98
+TID Splash   = 00002BD0
+TID Except   = 000021F0
+TID Setup    = 00000640
+TID Async    = 0000161C
+TID Thumb    = 00000000
+TID WinTab   = 00001CD0
+
+TID SPad AWB = 000029CC
+
+========================================================================
+
+-- 2017-03-18 19:38:20 ---------------------------------------
+ThreadID          = 00001608
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EE461A4
+ECX = 74858461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F01EE34
+ESP = 0F01EDA4
+EIP = 00406759
+
+-- 2017-03-18 19:38:20 ---------------------------------------
+ThreadID          = 00001608
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EE461A4
+ECX = 74858461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F01EE34
+ESP = 0F01EDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DÙv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rÙvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2081MB
+
+TID Main     = 00002F6C
+TID Splash   = 00000C50
+TID Except   = 00001F58
+TID Setup    = 00002B58
+TID Async    = 00001C98
+TID Thumb    = 00000000
+TID WinTab   = 0000210C
+
+TID SPad AWB = 00002750
+TID CV00 AWB = 00002458
+TID CV01 AWB = 000029FC
+TID CV02 AWB = 00000B5C
+
+========================================================================
+
+-- 2017-03-28 13:31:40 ---------------------------------------
+ThreadID          = 00002F6C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0019DC5C
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 025B1070
+EBP = 0019DC3C
+ESP = 0019DBAC
+EIP = 0040674A
+
+-- 2017-03-28 13:32:09 ---------------------------------------
+ThreadID          = 00002F6C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0019DC5C
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 025B1070
+EBP = 0019DC3C
+ESP = 0019DBAC
+EIP = 0040674A
+
+-- 2017-03-28 13:35:23 ---------------------------------------
+ThreadID          = 00002F6C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0019DC5C
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 025B1070
+EBP = 0019DC3C
+ESP = 0019DBAC
+EIP = 0040674A
+
+-- 2017-03-28 14:15:52 ---------------------------------------
+ThreadID          = 00002F6C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019DC3C
+ESP = 0019DBAC
+EIP = 0040674A
+
+-- 2017-03-28 14:16:05 ---------------------------------------
+ThreadID          = 00002780
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EFC7ED4
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F18EE34
+ESP = 0F18EDA4
+EIP = 00406759
+
+-- 2017-03-28 14:16:19 ---------------------------------------
+ThreadID          = 00002780
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0EFC1FC4
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0F18EE34
+ESP = 0F18EDA4
+EIP = 00406759
+
+-- 2017-03-28 14:16:32 ---------------------------------------
+ThreadID          = 00002F6C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019DC3C
+ESP = 0019DBAC
+EIP = 0040674A
+
+-- 2017-03-28 14:16:43 ---------------------------------------
+ThreadID          = 00002F6C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019DC3C
+ESP = 0019DBAC
+EIP = 0040674A
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DÙv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rÙvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2258MB
+
+TID Main     = 000014F0
+TID Splash   = 00002AB8
+TID Except   = 00002344
+TID Setup    = 0000068C
+TID Async    = 000007F4
+TID Thumb    = 00000000
+TID WinTab   = 00002BD4
+
+TID SPad AWB = 00002990
+
+========================================================================
+
+-- 2017-03-28 14:17:06 ---------------------------------------
+ThreadID          = 000014F0
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019DC3C
+ESP = 0019DBAC
+EIP = 0040674A
+
+-- 2017-03-28 14:17:18 ---------------------------------------
+ThreadID          = 000014F0
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019DC3C
+ESP = 0019DBAC
+EIP = 0040674A
+
+-- 2017-03-28 14:18:58 ---------------------------------------
+ThreadID          = 000014F0
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018C914
+ESP = 0018C884
+EIP = 0040674A
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DÙv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rÙvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2151MB
+
+TID Main     = 000019F4
+TID Splash   = 00002540
+TID Except   = 00002110
+TID Setup    = 00001A6C
+TID Async    = 00002E1C
+TID Thumb    = 00000000
+TID WinTab   = 00002DC4
+
+TID SPad AWB = 00002E78
+
+========================================================================
+
+-- 2017-03-28 14:19:17 ---------------------------------------
+ThreadID          = 000019F4
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018C914
+ESP = 0018C884
+EIP = 0040674A
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DÙv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rÙvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2251MB
+
+TID Main     = 00002E24
+TID Splash   = 00002CD0
+TID Except   = 00000A18
+TID Setup    = 00002BE4
+TID Async    = 00002BF4
+TID Thumb    = 00000000
+TID WinTab   = 00001EF4
+
+TID SPad AWB = 00002AD8
+
+========================================================================
+
+-- 2017-03-28 14:20:00 ---------------------------------------
+ThreadID          = 00002E24
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019EEB8
+ESP = 0019EE28
+EIP = 0040674A
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DÙv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rÙvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2249MB
+
+TID Main     = 00002934
+TID Splash   = 00001D38
+TID Except   = 000017F4
+TID Setup    = 00002298
+TID Async    = 00000FA4
+TID Thumb    = 00000000
+TID WinTab   = 00002884
+
+TID SPad AWB = 0000050C
+
+========================================================================
+
+-- 2017-03-28 14:20:05 ---------------------------------------
+ThreadID          = 00002934
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76D66330
+ECX = 76D58461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019EEB8
+ESP = 0019EE28
+EIP = 0040674A
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DYv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rYvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2249MB
+
+TID Main     = 00002790
+TID Splash   = 000027B4
+TID Except   = 000024E0
+TID Setup    = 00002548
+TID Async    = 00001F70
+TID Thumb    = 00000000
+TID WinTab   = 000027F4
+
+TID SPad AWB = 000019DC
+
+========================================================================
+
+-- 2017-03-28 14:44:34 ---------------------------------------
+ThreadID          = 00002790
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76566330
+ECX = 76558461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019EEB8
+ESP = 0019EE28
+EIP = 0040674A
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DYv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rYvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2248MB
+
+TID Main     = 000025B0
+TID Splash   = 0000262C
+TID Except   = 0000242C
+TID Setup    = 00002600
+TID Async    = 00002654
+TID Thumb    = 00000000
+TID WinTab   = 00002680
+
+TID SPad AWB = 0000268C
+
+========================================================================
+
+-- 2017-03-28 14:45:09 ---------------------------------------
+ThreadID          = 000025B0
+
+OperationCategory = 80000001
+OperationType     = 00000000
+OperationState    = 80000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76566330
+ECX = 76558461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0019EEB8
+ESP = 0019EE28
+EIP = 0040674A
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡DYv3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨rYvÿ×ƒÆ;urä_‹Mü3Í^èbÿÿ‹å]ÃÌÌÌÌÌjè,	 
+CPU No.00    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.04    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.05    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.06    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+CPU No.07    = Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 2146MB
+
+TID Main     = 000024E4
+TID Splash   = 00002438
+TID Except   = 000020F4
+TID Setup    = 00000DFC
+TID Async    = 000023C0
+TID Thumb    = 00000000
+TID WinTab   = 0000278C
+
+TID SPad AWB = 00002504
+
+========================================================================
+
+-- 2017-03-28 14:46:00 ---------------------------------------
+ThreadID          = 000024E4
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 76566330
+ECX = 76558461
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018C914
+ESP = 0018C884
+EIP = 0040674A
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡4t3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨btÿ×ƒÆ;urä_‹Mü3Í^è¬dÿÿ‹å]ÃjèÑ 
+CPU No.00    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.01    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.02    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.03    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.04    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.05    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.06    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.07    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3287MB
+
+TID Main     = 0000140C
+TID Splash   = 00000FC0
+TID Except   = 00000390
+TID Setup    = 00002018
+TID Async    = 00001D84
+TID Thumb    = 00000000
+TID WinTab   = 00001D94
+
+TID SPad AWB = 00002AB8
+
+========================================================================
+
+-- 2017-04-23 11:38:10 ---------------------------------------
+ThreadID          = 00002AF4
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 0040674A
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 2B7DF1E0
+ECX = 7412792A
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 0F3A1070
+EBP = 2B7DEE34
+ESP = 2B7DEDA4
+EIP = 0040674A
+
+-- 2017-04-23 11:38:13 ---------------------------------------
+ThreadID          = 00002AF4
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 2B638624
+ECX = 7412792A
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 2B7DEE34
+ESP = 2B7DEDA4
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = ‹å]ÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌ‹ÿU‹ìQ¡4_w3Å‰EüV‹u3À;usW…Àu‹>…ÿt
+‹Ïÿ¨b_wÿ×ƒÆ;urä_‹Mü3Í^è¬dÿÿ‹å]ÃjèÑ 
+CPU No.00    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.01    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.02    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.03    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.04    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.05    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.06    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+CPU No.07    = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 4095MB
+Total VAS    = 4095MB
+Avail VAS    = 3237MB
+
+TID Main     = 00003C30
+TID Splash   = 000029B8
+TID Except   = 00003DC4
+TID Setup    = 00003714
+TID Async    = 00003C90
+TID Thumb    = 00000000
+TID WinTab   = 00002A08
+
+TID SPad AWB = 0000328C
+TID CV00 AWB = 000023C4
+TID CV01 AWB = 00002468
+
+========================================================================
+
+-- 2017-05-20 22:25:00 ---------------------------------------
+ThreadID          = 00001B7C
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 2ACEFDA4
+ECX = 775B792A
+EDX = 00000000
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 2AE9EE34
+ESP = 2AE9EDA4
+EIP = 00406759
+
